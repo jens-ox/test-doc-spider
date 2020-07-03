@@ -1,0 +1,9 @@
+{
+  "name": "test-doc-spider",
+  "version": "1.0.0",
+  "description": "Test repository for sourcing documentation from another repo",
+  "main": "index.js",
+  "repository": "https://github.com/jens-ox/test-doc-spider",
+  "author": "Jens Ochsenmeier",
+  "license": "MIT"
+}
