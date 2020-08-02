@@ -1,0 +1,11 @@
+{
+  "name": "Test Module",
+  "slug": "test-module",
+  "description": "This module does stuff, and exists.",
+  "files": ["index.md"],
+  "sidebarYaml": "./.docs-sidebar.yaml",
+  "pages": [{
+    "name": "Index",
+    "file": "./index.md"
+  }]
+}
